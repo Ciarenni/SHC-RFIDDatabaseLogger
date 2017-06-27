@@ -1,0 +1,18 @@
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\bin\Debug\RFID Database Logger.exe
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\bin\Debug\RFID Database Logger.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID_Logger.EditMember.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID_Logger.NewMember.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID_Logger.Password.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID_Logger.PortName.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID_Database_Logger.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID_Logger.ViewAllMembers.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID Database Logger.exe
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID Database Logger.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID_Logger.RFIDLoggerMain.resources
+D:\lifeboat from laptop\VS2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID Database Logger.exe
+D:\lifeboat from laptop\VS2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Debug\RFID Database Logger.pdb
+D:\GitHub Repos\SHC-RFIDDatabaseLogger\RFID Database Logger\obj\x86\Debug\RFID Database Logger.exe
+D:\GitHub Repos\SHC-RFIDDatabaseLogger\RFID Database Logger\obj\x86\Debug\RFID Database Logger.pdb

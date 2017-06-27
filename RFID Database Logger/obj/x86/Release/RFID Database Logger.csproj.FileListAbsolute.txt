@@ -1,0 +1,14 @@
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\bin\Release\RFID Database Logger.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\bin\Release\RFID Database Logger.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\RFID_Logger.EditMember.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\RFID_Logger.NewMember.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\RFID_Logger.Password.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\RFID_Logger.PortName.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\RFID_Database_Logger.Properties.Resources.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\RFID_Logger.ViewAllMembers.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\RFID Database Logger.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\RFID Database Logger.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\RFID Database Logger\RFID Database Logger\obj\x86\Release\RFID_Logger.RFIDLoggerMain.resources
